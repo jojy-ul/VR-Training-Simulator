@@ -15,6 +15,11 @@ public class LevelManager : MonoBehaviour
         SceneManager.LoadScene("Equipment_Familiarization");
     }
     
+    public void Safety_Training()
+    {
+        SceneManager.LoadScene("Safety_Training");
+    }
+    
     public void Login_Scene()
     {
         SceneManager.LoadScene("Login");

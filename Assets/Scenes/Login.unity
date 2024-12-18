@@ -642,7 +642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _position: {x: 0, y: 0, z: 0}
-  _size: {x: 0, y: 0, z: 0.01}
+  _size: {x: 2138, y: 614.9, z: 0.01}
 --- !u!114 &26994393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2131,7 +2131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _position: {x: 0, y: 0, z: 0}
-  _size: {x: 0, y: 0, z: 0.01}
+  _size: {x: 2138, y: 614.9, z: 0.01}
 --- !u!114 &231702056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2589,7 +2589,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4455134864864306954, guid: ac2e09824bbe6da42bff68e86401d411, type: 3}
       propertyPath: m_text
-      value: Password
+      value: '**************'
       objectReference: {fileID: 0}
     - target: {fileID: 4455134864864306954, guid: ac2e09824bbe6da42bff68e86401d411, type: 3}
       propertyPath: m_sharedMaterial
@@ -9305,7 +9305,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4455134864864306954, guid: ac2e09824bbe6da42bff68e86401d411, type: 3}
       propertyPath: m_text
-      value: Email
+      value: 24070769@studentmail.ul.ie
       objectReference: {fileID: 0}
     - target: {fileID: 4455134864864306954, guid: ac2e09824bbe6da42bff68e86401d411, type: 3}
       propertyPath: m_Enabled
